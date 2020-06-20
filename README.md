@@ -2,8 +2,6 @@
     HUNTWEB
 </h1>
 
-<br />""
-
 <h1 align="center">
     <img src="react-js/public/pagemain.png">
 </h1>
@@ -64,7 +62,8 @@ npm install
 # Iniciar o server:
 npm run dev
 
-# Dica: Utilizar o programa Insomnia ou Postman para executar os médodos da API e criar os registros.
+# Dica: Utilizar o programa Insomnia ou Postman para executar os métodos da API
+# e criar os registros.
 ```
 
 ### Executar app Web:
